@@ -37,7 +37,7 @@ ${chalk.white('STATUS ')} ${chalk.green('AKTIF')}
 ${chalk.red('Harap Gunakan Dengan Bijak')} - ${chalk.green('Cheater Stumble Guys')}
 `);
 
-    const auth = rs.question('Enter You Cookie : ');
+    const auth = '{"DeviceId":"5ef8a667ba90ce08ae8703bfd75d01dc","GoogleId":"","FacebookId":"","Token":"FamZEIcNjvMqK1s5lizaPVnuMyFDnycw","Timestamp":1655763765,"Hash":"9d480078a8ae6284eaa3cd2e5279deb6fcc7f5dc"}'
     console.log('');
 
     while (true) {
